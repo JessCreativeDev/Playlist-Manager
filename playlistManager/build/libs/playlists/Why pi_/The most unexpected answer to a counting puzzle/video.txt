@@ -1,0 +1,57 @@
+Video ID: HEfHFsfGXjs
+Video Name: The most unexpected answer to a counting puzzle
+Description: If this doesn't blow your mind, I don't know what will.
+Part 2: https://youtu.be/jsYwFizhncE
+Part 3: https://youtu.be/brU5yLm9DZM
+Brought to you by you: http://3b1b.co/clacks-thanks
+
+New to this channel?  It's all about teaching math visually.  Take a look and see if there's anything you'd like to learn.
+
+NY Times blog post about this problem:
+https://wordplay.blogs.nytimes.com/2014/03/10/pi/
+
+The original paper by Gregory Galperin:
+https://www.maths.tcd.ie/~lebed/Galperin.%20Playing%20pool%20with%20pi.pdf
+
+Evidently, Numberphile also described this problem (I had not known):
+https://youtu.be/abv4Fz7oNr0
+You'll notice that video has an added factor of 16 throughout, which is not here.  That's because they're only counting the collisions between blocks (well, balls in their case), and they're only counting to the point where the big block starts moving the other way.
+
+------------------
+
+These animations are largely made using manim, a scrappy open source python library:  https://github.com/3b1b/manim
+
+If you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.
+
+Music by Vincent Rubinetti.
+Download the music on Bandcamp:
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+
+Stream the music on Spotify:
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+If you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then "add subtitles/cc".  I really appreciate those who do this, as it helps make the lessons accessible to more people.
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Instagram: https://www.instagram.com/3blue1brown_animations/
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Channel: 3Blue1Brown
+Thumbnail URL: https://i.ytimg.com/vi/HEfHFsfGXjs/mqdefault.jpg
+Thumbnail Height: 180
+Thumbnail Width: 320
+Position: 2
+Postiion Bias: 0
+Loop Count: 0
+Speed: 1.0
+Is Video Looping: false
+Is Video Speed Changed: false
+Is Video Saved: false
+Tags: None

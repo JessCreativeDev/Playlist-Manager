@@ -1,0 +1,32 @@
+Video ID: LtZBJbkDETc
+Video Name: The Next Evolution of Minecraft
+Description: Grian showcases minecraft RTX the ultimate minecraft shaders, a collaboration between Nvidia & Mojang. 
+
+Check out PCSpecialists website here to build your perfect RTX Rig: https://bit.ly/minecraft-rtx
+
+This video was sponsored by Nvidia & PCSpecialist.
+#minecraft
+
+
+Instructions on how to play the Minecraft RTX Beta:
+- Own a Windows 10 copy of Minecraft
+- Have an RTX GPU installed
+- Install the latest NVIDIA Drivers
+- Install Xbox Insider Hub app on PC (available on windows store)
+- Click on the ‘open box’ icon in the left sidebar nav
+on the insider content screen you will see a beta available for Minecraft for Windows 10, click this & choose join
+- A pop up will appear with 3 radio buttons, choose the one for ‘Minecraft RTX Beta’ & click Done
+- Update Minecraft Windows 10 (If you have automatic updates on, this will happen automatically)
+- Launch the game & head to the marketplace. Search ‘RTX’ to download a selection of free creator-built worlds
+Channel: Grian
+Thumbnail URL: https://i.ytimg.com/vi/LtZBJbkDETc/mqdefault.jpg
+Thumbnail Height: 180
+Thumbnail Width: 320
+Position: 3
+Postiion Bias: 0
+Loop Count: 0
+Speed: 1.0
+Is Video Looping: false
+Is Video Speed Changed: false
+Is Video Saved: false
+Tags: None

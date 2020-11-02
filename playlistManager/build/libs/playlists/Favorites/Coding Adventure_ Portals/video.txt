@@ -1,0 +1,33 @@
+Video ID: cWpFZbjtSQg
+Video Name: Coding Adventure: Portals
+Description: Experimenting with portals, for science.
+
+The project is available here: https://github.com/SebLague/Portals/tree/master
+If you'd like to get early access to new projects, or simply want to support me in creating more videos, please visit https://www.patreon.com/SebastianLague
+
+Resources I used:
+http://tomhulton.blogspot.com/2015/08/portal-rendering-with-offscreen-render.html
+http://www.terathon.com/lengyel/Lengyel-Oblique.pdf
+https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/projection-matrices-what-you-need-to-know-first
+https://www.turiyaware.com/a-solution-to-unitys-camera-worldtoscreenpoint-causing-ui-elements-to-display-when-object-is-behind-the-camera/
+
+3D Models:
+Plane: https://www.turbosquid.com/FullPreview/Index.cfm/ID/1041070
+Car: https://www.turbosquid.com/FullPreview/Index.cfm/ID/1101519
+
+Music:
+"Twisting", "Lightless Dawn", "Frost Waltz", "Heart of Nowhere", "At Rest", "Spellbound", "In Your Arms", "Rynos Theme", and "The Builder" by Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+Channel: Sebastian Lague
+Thumbnail URL: https://i.ytimg.com/vi/cWpFZbjtSQg/mqdefault.jpg
+Thumbnail Height: 180
+Thumbnail Width: 320
+Position: 22
+Postiion Bias: 0
+Loop Count: 0
+Speed: 1.0
+Is Video Looping: false
+Is Video Speed Changed: false
+Is Video Saved: false
+Tags: None

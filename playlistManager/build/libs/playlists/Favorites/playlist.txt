@@ -1,0 +1,15 @@
+Playlist ID: FLyvd1Ho9jqA8xKRH5yH4rKw
+Playlist Name: Favorites
+Description: 
+Channel: Super Masterman 64
+Thumbnail URL: https://i.ytimg.com/vi/xEyu4KrlrGo/mqdefault.jpg
+Thumbnail Height: 180
+Thumbnail Width: 320
+Size: 51
+Loop Count: 0
+Speed: 1.0
+Override Video Settings: false
+Are Videos Looped: false
+Are Video Speeds Changed: false
+Are Videos Saved: false
+Tags: None

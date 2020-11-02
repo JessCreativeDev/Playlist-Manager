@@ -1,0 +1,24 @@
+Video ID: kpjqweJv_0g
+Video Name: My First Game - GML - Attacking & Collisions - Space Rocks (Part 3)
+Description: FriendlyCosmonaut is here to show you how quickly you can get developing your first game with GameMaker Studio 2, creating an arcade classic game.
+
+Download the assets here: https://s3.amazonaws.com/yoyo-www/html5/tutorials/SpaceRocksAssets.zip
+
+For more information and tutorials on GameMaker Studio 2 be sure to subscribe, follow @YoYoGames on Twitter and YoYo Games on Facebook.
+
+http://www.yoyogames.com
+YoYo Games is based in Dundee, Scotland.
+
+Follow @YoYoGames on Twitter and YoYo Games on Facebook.
+Channel: YoYo Games
+Thumbnail URL: https://i.ytimg.com/vi/kpjqweJv_0g/mqdefault.jpg
+Thumbnail Height: 180
+Thumbnail Width: 320
+Position: 17
+Postiion Bias: 0
+Loop Count: 0
+Speed: 1.0
+Is Video Looping: false
+Is Video Speed Changed: false
+Is Video Saved: false
+Tags: None

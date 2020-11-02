@@ -1,0 +1,56 @@
+Video ID: brU5yLm9DZM
+Video Name: How colliding blocks act like a beam of light...to compute pi.
+Description: The third and final part of the block collision sequence.
+Part 1: https://youtu.be/HEfHFsfGXjs
+Part 2: https://youtu.be/jsYwFizhncE
+Home page: https://www.3blue1brown.com
+Brought to you by you: http://3b1b.co/clacks-thanks
+
+Error correction: I wrote the answer as floor(pi/theta), when really it should be ceiling(pi/theta) - 1 t account for values of theta perfectly dividing pi.  For example, the case of equal masses gives an angle of pi/4, and 3 total clacks.
+
+This beautiful result, and the solution shown here, are due to Gregory Galperin:
+https://www.maths.tcd.ie/~lebed/Galperin.%20Playing%20pool%20with%20pi.pdf
+
+And here's a lovely interactive built by GitHub user prajwalsouza after watching this video: https://prajwalsouza.github.io/Experiments/Colliding-Blocks.html
+
+Speaking of looking glass universes...
+https://www.youtube.com/user/LookingGlassUniverse
+
+NY Times blog post about this problem:
+https://wordplay.blogs.nytimes.com/2014/03/10/pi/
+
+The plushie pi shown at the video's start:
+https://www.3blue1brown.com/store
+
+If you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then "add subtitles/cc".  I really appreciate those who do this, as it helps make the lessons accessible to more people.
+
+Music by Vincent Rubinetti.
+Download the music on Bandcamp:
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+
+Stream the music on Spotify:
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Instagram: https://www.instagram.com/3blue1brown_animations/
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Channel: 3Blue1Brown
+Thumbnail URL: https://i.ytimg.com/vi/brU5yLm9DZM/mqdefault.jpg
+Thumbnail Height: 180
+Thumbnail Width: 320
+Position: 4
+Postiion Bias: 0
+Loop Count: 0
+Speed: 1.0
+Is Video Looping: false
+Is Video Speed Changed: false
+Is Video Saved: false
+Tags: None

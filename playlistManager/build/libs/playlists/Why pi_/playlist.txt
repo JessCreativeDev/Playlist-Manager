@@ -1,0 +1,15 @@
+Playlist ID: PLZHQObOWTQDMVQcT3414TcPMeEYf_VtPM
+Playlist Name: Why pi?
+Description: 
+Channel: 3Blue1Brown
+Thumbnail URL: https://i.ytimg.com/vi/NaL_Cb42WyY/mqdefault.jpg
+Thumbnail Height: 180
+Thumbnail Width: 320
+Size: 0
+Loop Count: 0
+Speed: 1.0
+Override Video Settings: true
+Are Videos Looped: false
+Are Video Speeds Changed: false
+Are Videos Saved: true
+Tags: None

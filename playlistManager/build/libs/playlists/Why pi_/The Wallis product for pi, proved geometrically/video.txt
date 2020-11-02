@@ -1,0 +1,46 @@
+Video ID: 8GPy_UMV-08
+Video Name: The Wallis product for pi, proved geometrically
+Description: A new and more circularly proof of a famous Wallis product for pi.
+
+Here's a supplemental blog post, expanding some of the rigor of this proofs, along with other interesting tidbits about surrounding topics that we didn't fit into the video:
+https://www.3blue1brown.com/sridhars-corner/2018/4/17/wallis-product-supplement-dominated-convergence
+
+Special thanks to the following Patreon supporters:
+http://3b1b.co/wallis-thanks
+
+If you also want to support videos like these, visit https://www.patreon.com/3blue1brown
+
+Another approach to this product by Johan WÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤stlund:
+http://www.math.chalmers.se/~wastlund/monthly.pdf
+
+With more from Donald Knuth building off this idea:
+https://apetresc.wordpress.com/2010/12/28/knuths-why-pi-talk-at-stanford-part-1/
+
+
+Music by Vincent Rubinetti: 
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you're into that).
+
+If you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended
+
+Various social media stuffs:
+Website: https://www.3blue1brown.com
+Twitter: https://twitter.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Channel: 3Blue1Brown
+Thumbnail URL: https://i.ytimg.com/vi/8GPy_UMV-08/mqdefault.jpg
+Thumbnail Height: 180
+Thumbnail Width: 320
+Position: 6
+Postiion Bias: 0
+Loop Count: 0
+Speed: 1.0
+Is Video Looping: false
+Is Video Speed Changed: false
+Is Video Saved: false
+Tags: None

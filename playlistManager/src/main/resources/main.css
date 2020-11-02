@@ -1,0 +1,77 @@
+
+.root {
+    -fx-font-size: 100%;
+    -fx-text-fill: white;
+}
+
+.dialog-pane, .dialog-pane:header .header-panel {
+    -fx-background-color: #cc0000;
+}
+
+.hyperlink {
+    -fx-text-fill: #cccccc;
+    -fx-font-weight: 700;
+}
+
+.topbottom {
+    -fx-background-color: #cc0000;
+}
+
+.middle, .list-cell {
+    -fx-background-color: #800d0d;
+    -fx-text-fill: white;
+} 
+
+#interface {
+    -fx-background-color: black;
+}
+
+.list-cell:selected {
+    -fx-background-color: #a21010;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#progress{
+    -fx-font-size: 125%;
+    -fx-text-fill: black;
+}
+
+.context-menu{
+    -fx-background-color: #065180;
+}
+
+.menu-item:hover {
+    -fx-background-color: #1481b8;
+}
+
+.button {
+    -fx-background-color: #065180;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.combo-box{
+    -fx-background-color: #065180;
+}
+
+.combo-box-popup {
+    -fx-background-color: #1481b8;
+}
+
+.combo-box .list-cell{
+    -fx-background-color: #065180;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: #1481b8;
+}
+.check-box {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
